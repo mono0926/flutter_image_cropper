@@ -30,3 +30,5 @@ flutter:
       web:
         pluginClass: ImageCropperPlugin
         fileName: image_cropper_for_web.dart
+  assets:
+    - assets/croppie/
